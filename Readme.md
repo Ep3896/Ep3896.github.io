@@ -1,8 +1,12 @@
-ROS SIMULATION - RESEARCH TRACK 1
+ROS SIMULATION - RESEARCH TRACK 1/2
 ===================
 
-The Sphinx domcumentation of this assignment can be seen through the following link : https://ep3896.github.io/Research_Track_2nd_Assignment_With_Documentation/
+First Part_ RT2_First Assignment: The Sphinx domcumentation of this assignment can be seen through the following link : https://ep3896.github.io/Research_Track_2nd_Assignment_With_Documentation/
 ### Professor. [Carmine Recchiuto](https://github.com/CarmineD8)
+
+Second Part_ RT2_First Assignment: In this repository is also present a jupyter notebook containing the subsequent assignment of Research Track 1, in which the user can set a new target goal or cancel it. The menu is made up of widgets and text boxes, while graphs and bar charts are used to plot the trajectory of the robot, goals, and the number of reached and deleted goals.
+
+Third Part_ RT2_First Assignment: a statistical approach related to the old RT1 assignment is present as pdf in this reposiotry.
 
 We will learn how to use ROS custom messages, services, and actions in this assignment. We'll also utilize Rviz and Gazebo's graphical user interfaces to observe the simulation of the robot. The assignment 2 2022 template was used as a starting point for the creation of the new package.
 
