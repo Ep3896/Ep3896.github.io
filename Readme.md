@@ -13,7 +13,7 @@ A statistical approach related to the old RT1 assignment is present as pdf in th
 
 We will learn how to use ROS custom messages, services, and actions in this assignment. We'll also utilize Rviz and Gazebo's graphical user interfaces to observe the simulation of the robot. The assignment 2 2022 template was used as a starting point for the creation of the new package.
 
-Second Assignment
+Second Assignment_RT1
 ===================
 The task of this assignment was to implement three new nodes in the robot simulation:
 
